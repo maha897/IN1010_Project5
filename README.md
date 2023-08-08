@@ -1,4 +1,4 @@
-#
+# Fun with threads
 ## IN1010 Assignment 5 H22
 
 This program experiments with threads in java. We will, by analyzing blood samples, finds sequence patterns
